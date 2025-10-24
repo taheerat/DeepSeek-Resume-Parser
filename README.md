@@ -7,6 +7,9 @@ then passes the extracted text to a Gemini-powered agent to parse key resume fie
 
 ⚙️ Tech Stack:
 Google Colab — Easy setup with GPU acceleration
+
 DeepSeek-OCR — Text extraction from resume images
+
 Google Gemini API (via Agno) — Natural language understanding and structured parsing
+
 Python & Transformers — Model integration and executio
