@@ -6,6 +6,7 @@ It performs OCR (Optical Character Recognition) on the first page of a resume im
 then passes the extracted text to a Gemini-powered agent to parse key resume fields into a clean JSON format.
 
 ⚙️ Tech Stack:
+
 Google Colab — Easy setup with GPU acceleration
 
 DeepSeek-OCR — Text extraction from resume images
